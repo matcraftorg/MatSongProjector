@@ -2,7 +2,7 @@
  *   MatSongProjector                                                      *
  *   Copyright (C) 2010-2020 by MatCraft, Bulgaria                         *
  *   matcraft.org@gmail.com                                                *
- *   http://www.matcraft.org/                                              *
+ *   https://www.matcraft.org/                                             *
  *                                                                         *
  *   This program is free software; you can redistribute it and/or modify  *
  *   it under the terms of the GNU General Public License as published by  *
@@ -1054,7 +1054,7 @@ void MainWindow::on_btnWallpaperColor_clicked()
 void MainWindow::on_btnAbout_clicked()
 {
   // Това е нещо като помощна информация (About/Help), но май няма какво да се напише освен версията на програмата, затова този стринг не се превежда (използва се QString, а не tr)...
-  QMessageBox::about(this, QCoreApplication::applicationName(), QString("<p><b>%1</b><br />Ver %2</p><p><a href=\"http://www.matcraft.org\">www.matcraft.org</a></p>").arg(QCoreApplication::applicationName()).arg(QCoreApplication::applicationVersion()));
+  QMessageBox::about(this, QCoreApplication::applicationName(), QString("<p><b>%1</b><br />Ver %2</p><p><a href=\"https://www.matcraft.org\">www.matcraft.org</a></p>").arg(QCoreApplication::applicationName()).arg(QCoreApplication::applicationVersion()));
   //QMessageBox::about(this, QCoreApplication::applicationName(), tr("%1 %2\nwww.matcraft.org\n\n\nYou need to use UTF-8 character encoding for the text files.").arg(QCoreApplication::applicationName()).arg(QCoreApplication::applicationVersion()));
 }
 

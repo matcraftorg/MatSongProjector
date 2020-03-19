@@ -2,7 +2,7 @@
  *   MatSongProjector                                                      *
  *   Copyright (C) 2010-2020 by MatCraft, Bulgaria                         *
  *   matcraft.org@gmail.com                                                *
- *   http://www.matcraft.org/                                              *
+ *   https://www.matcraft.org/                                             *
  *                                                                         *
  *   This program is free software; you can redistribute it and/or modify  *
  *   it under the terms of the GNU General Public License as published by  *

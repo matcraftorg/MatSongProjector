@@ -1,10 +1,10 @@
 MatSongProjector
-(C) 2010-2020 MatCraft, Bulgaria, matcraft.org@gmail.com  http://matcraft.org/
+(C) 2010-2020 MatCraft, Bulgaria, matcraft.org@gmail.com  https://matcraft.org/
 
 Installation
 ~~~~~~~~~~~~
 
-Download is available from http://matcraft.org/, the official website.
+Download is available from https://matcraft.org/, the official website.
 
 You need Qt (https://www.qt.io/) at least version 5.0 to be able to compile
 MatSongProjector. Most Linux distributions normally already package the latest
